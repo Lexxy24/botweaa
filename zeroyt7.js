@@ -10,7 +10,7 @@
 //TIKTOK : @Alan_gemzet
 //GITHUB : https://github.com/YT-ALAN-BOTZ
 
-owner = '6282279915237'
+owner = '6289668014332'
 botname = 'Alpha BOTZ'
 zerokey = 'NYXNGONTOL'
 zerkey = 'ZeroYT7'
